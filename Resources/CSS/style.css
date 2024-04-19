@@ -1,1 +1,10 @@
-* {background-color: pink;}
+p {background-color: pink;
+color:antiquewhite}
+h1 {
+    font-size: 3rem;
+}
+#destinations{
+    background-color: aquamarine;
+}
+.section {color: rgb(196, 59, 59);}
+h3{font-style: italic;color: blue;}
